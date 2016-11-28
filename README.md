@@ -39,7 +39,9 @@ mount acd to ~/UPS-mech/.media
 mount the decrypted drive
   encfs /home/user/UPS-mech/.media /home/user/UPS-mech/media
     must use full path names
+    
 <b>-----</b>
+
 Change the user in the paths in the my.conf file to your own
 
 copy the encfs file for backup
