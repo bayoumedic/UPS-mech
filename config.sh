@@ -1,1 +1,7 @@
 encfs_pass=""
+encfs6xml_path="~/UPS-mech/"
+acd_mount="~/UPS-mech/.media"
+acd_decrypted="~/UPS-mech/media"
+incoming_media="~/UPS-mech/incoming"
+transfer_decrypted="~/UPS-mech/transfer"
+transfer_encrypted="~/UPS-mech/.transfer"
