@@ -1,5 +1,5 @@
 #!/bin/bash
-source /etc/cool.cfg
+source my.conf
 
 
 function mountACD(){
