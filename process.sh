@@ -1,8 +1,8 @@
 #!/bin/bash
 
 source my.conf
-
-#/home/jason/plex/scripts/repairacd.sh
+ ~/UPS-mech/mountacd.sh
+ 
 UPDATE_NEEDED_M=0
 UPDATE_NEEDED_T=0
 while :
